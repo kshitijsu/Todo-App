@@ -2,4 +2,6 @@
 
 Developed using React Js
 
-##Quarntine_Time_Fun
+Click here for preview : 
+
+# Quarntine_Time_Fun
